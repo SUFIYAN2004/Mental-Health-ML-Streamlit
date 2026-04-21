@@ -47,6 +47,6 @@ Want to test the app on your own machine? Follow these steps:
 ## ⚠️ Medical Disclaimer
 
 **This application is for educational and demonstrational purposes only.** The predictions made by this Machine Learning model are based on a limited dataset and should *never* be used as a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of a physician or qualified mental health provider with any questions you may have regarding a medical condition.
-```
+
 
 
